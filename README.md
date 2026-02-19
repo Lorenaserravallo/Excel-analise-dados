@@ -98,6 +98,7 @@ Painel visual contendo:
 * Gráfico de linha (evolução mensal)
 * Segmentação dinâmica para filtros
 
+
 https://github.com/user-attachments/assets/2beaacc4-a1d4-4a20-8d55-1298540bb126
 
 ---
