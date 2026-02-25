@@ -135,7 +135,6 @@ Este projeto me permitiu consolidar conhecimentos em:
 ## 🦋 Autora
 
 **Lorena Serravallo**
-Estudante de Análise e Desenvolvimento de Sistemas
-Foco em Análise de Dados.
+Estudante de Análise e Desenvolvimento de Sistemas com foco em Análise de Dados.
 
 **Este projeto foi desenvolvido durante o Curso de Excel - Hashtag Treinamentos.**
